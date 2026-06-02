@@ -10,7 +10,7 @@ Developed with 💙 by **[r00td3athsh3ll01](https://github.com/tawfique02)**
 
 Here is a glimpse of the application interface:
 
-![Universal Video Downloader Pro Interface](image_9af8e2.png)
+![Universal Video Downloader Pro Interface](https://github.com/tawfique02/video_downloader_pro/raw/main/Screenshot%202026-06-02%20134320.png)
 
 ---
 
